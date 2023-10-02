@@ -59,7 +59,8 @@ export default function About(props) {
         "Adept programmers can work on new challenges and mentor others.",
         "Contribute/Create open-source projects for your portfolio and resume!",
         "Collaboration with individuals with different skills, perspectives and backgrounds.",
-        "Communication with mentors, industry leaders and speakers."
+        "Communication with mentors, industry leaders and speakers.",
+        "Jason Vu here testing"
       ]
     },
   ]
